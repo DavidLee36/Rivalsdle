@@ -1,0 +1,1860 @@
+{
+    "click_images": {
+        "left_click": "https://www.marvelrivals.com/pc/gw/20241128194803/img/sbzj_5901af42.png",
+        "right_click": "https://www.marvelrivals.com/pc/gw/20241128194803/img/sbyj_ec1b2d5e.png"
+    },
+    "hero_abilites": [
+        {
+            "hero_name": "ADAM WARLOCK",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "QUANTUM MAGIC",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/996e6c76-b2b8-42c6-9e17-c74f25768123.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "KARMIC REVIVAL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/bedb33ea-a7d7-482f-a3ba-695afc84d7df.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "SOUL BOND",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/6d9c5f2f-ad6d-4f5e-9a1d-bf039b2d6fdc.png"
+                },
+                {
+                    "button": "E",
+                    "name": "AVATAR LIFE STREAM",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/00ceedf0-0fab-45f5-bcb6-009797271b65.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "COSMIC CLUSTER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/cac2ca73-29e2-4ea4-87f9-1f1c0c24f382.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "REGENERATIVE COCOON",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/b85e229f-e718-4402-9c78-3ce82b3b5ee0.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "SOUL PERSEVERANCE",
+                    "team_up_name": "GUARDIAN REVIVAL"
+                }
+            ]
+        },
+        {
+            "hero_name": "BLACK PANTHER",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "VIBRANIUM CLAWS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/095862fd-2dce-4947-8996-58741ba3e326.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "BAST'S DESCENT",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/796baaa9-278e-464f-a394-bc5869dbc473.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "SPIRIT REND",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/5420a5ab-0ba8-4c9c-8953-7f60adf79cd2.png"
+                },
+                {
+                    "button": "E",
+                    "name": "SPINNING KICK",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/a56f606b-d519-49aa-9570-cc615be6f239.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "SUBTLE STEP",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/715f8f12-5bf3-4f11-a583-ee4ad606136d.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "SPEAR TOSS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/4ccd846a-f72e-4d69-aa9f-6c459f67648c.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "PANTHER'S CUNNING",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/07bd1118-a93b-49f7-8789-696e0480ee44.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "WAKANDAN MASTER",
+                    "team_up_name": "GUARDIAN REVIVAL"
+                }
+            ]
+        },
+        {
+            "hero_name": "BLACK WIDOW",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "WIDOW'S BITE BATON",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/66ad25fa-5a94-4087-8d1d-d626e1a5c798.png"
+                },
+                {
+                    "button": "L CLICK",
+                    "name": "RED ROOM RIFLE",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/67bd0973-ab49-4e6d-a04b-70f67cb2514b.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "ELECTRO-PLASMA EXPLOSION",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/2ab04f37-ede8-4c33-aee0-ef47e6d4c495.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "FLEET FOOT",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/c54964b7-5c00-4229-8f65-5d156f05ce27.png"
+                },
+                {
+                    "button": "E",
+                    "name": "EDGE DANCER",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/63a7474c-3d1a-4db1-933a-c70c5a37e9ca.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "STRAIGHT SHOOTER",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/6361d366-98b8-4268-825e-1371bf7c99f0.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "SUPERSENSORY HUNT",
+                    "team_up_name": "ALLIED AGENTS"
+                }
+            ]
+        },
+        {
+            "hero_name": "CAPTAIN AMERICA",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "SENTINEL STRIKE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/588f99a1-b1e0-4133-a626-35f8e6e4b158.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "FREEDOM CHARGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/301a3e56-eeee-47e4-b3b6-08c164b5f780.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "LEADING DASH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/dfc71932-8e4a-47e1-8eaf-3dffddf51cb4.png"
+                },
+                {
+                    "button": "E",
+                    "name": "VIBRANIUM ENERGY SAW",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ba7fc0c4-f0c7-4ce7-a792-63374163cc22.png"
+                },
+                {
+                    "button": "F",
+                    "name": "LIBERTY RUSH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/63eef162-7c33-46a8-8f48-aa74b29f910a.png"
+                },
+                {
+                    "button": "L CLICK",
+                    "name": "SUPER-SOLDIER SLAM",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/0261fd68-7164-4852-a86a-a5d02f914b2a.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "LIVING LEGEND",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/97a1851f-7f3d-4297-a8ba-3d4650422a58.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "CHARGED AEGIS",
+                    "team_up_name": "VOLTAIC UNION"
+                }
+            ]
+        },
+        {
+            "hero_name": "CLOAK & DAGGER",
+            "forms": [
+                {
+                    "form_name": "CLOAK",
+                    "abilities": [
+                        {
+                            "button": "L CLICK",
+                            "name": "DARKFORCE CLOAK",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/94227f4c-02fd-4954-900c-f149b05b5cea.png"
+                        },
+                        {
+                            "button": "Q",
+                            "name": "ETERNAL BOND",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/9791de0a-9b39-4111-a535-77a8fccaef5a.png"
+                        },
+                        {
+                            "button": "SHIFT",
+                            "name": "LIGHT'S EMBRACE",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/d79fe95c-03cf-4d39-97ce-a2af95dd180b.png"
+                        },
+                        {
+                            "button": "E",
+                            "name": "TERROR CAPE",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/a57ebbc2-dcf5-4511-8a5e-7291aefbaf3f.png"
+                        },
+                        {
+                            "button": "R CLICK",
+                            "name": "DARK TELEPORTATION",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/08104768-56d7-4bda-84ae-bd4cd7245223.png"
+                        }
+                    ]
+                },
+                {
+                    "form_name": "DAGGER",
+                    "abilities": [
+                        {
+                            "button": "L CLICK",
+                            "name": "LIGHTFORCE DAGGER",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/5211b159-6fa8-4589-829f-facb1c455241.png"
+                        },
+                        {
+                            "button": "Q",
+                            "name": "ETERNAL BOND",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/9791de0a-9b39-4111-a535-77a8fccaef5a.png"
+                        },
+                        {
+                            "button": "SHIFT",
+                            "name": "SHADOW'S EMBRACE",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/3e810039-6b5c-43e0-b1c6-22808f1ee3cf.png"
+                        },
+                        {
+                            "button": "E",
+                            "name": "VEIL OF LIGHTFORCE",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/b2149229-d3c4-4056-9fa4-04704c96c3af.png"
+                        },
+                        {
+                            "button": "R CLICK",
+                            "name": "DAGGER STORM",
+                            "img_src": "https://r.res.easebar.com/pic/20241205/a106ebc0-80b0-4dd9-bf68-0c19f464e8bc.png"
+                        }
+                    ]
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "FROM SHADOW TO LIGHT",
+                    "team_up_name": "LUNAR FORCE"
+                }
+            ]
+        },
+        {
+            "hero_name": "DOCTOR STRANGE",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "DAGGERS OF DENAK",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/005933a8-1d97-42c6-aac7-27e1bc018038.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "EYE OF AGAMOTTO",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/0fd358bd-cf3c-4029-9455-3693bc12cbb5.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "CLOAK OF LEVITATION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/bcd20b65-6414-40bd-9f37-524652c0ed5b.png"
+                },
+                {
+                    "button": "E",
+                    "name": "MAELSTROM OF MADNESS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/fc0621cc-3ee2-490c-bd45-28986775291c.png"
+                },
+                {
+                    "button": "F",
+                    "name": "PENTAGRAM OF FARALLAH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/9161c8ab-2eb3-4546-b454-c9d18e0ddad5.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "SHIELD OF THE SERAPHIM",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/9a8c0b57-316f-42da-bcca-9923be81d771.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "PRICE OF MAGIC",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/14622714-9438-4212-8a0b-738f282a64bc.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "E",
+                    "name": "GAMMA MAELSTROM",
+                    "team_up_name": "GAMMA CHARGE"
+                }
+            ]
+        },
+        {
+            "hero_name": "GROOT",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "VINE STRIKE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/b1e08b7f-2364-45cb-9ebc-6b73214d8529.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "STRANGLING PRISON",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/72a68f64-ac6b-4b4d-a6c2-a96d8ba932f2.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "THORNLASH WALL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/22175d18-5214-4a59-a1a2-b20d042ac46c.png"
+                },
+                {
+                    "button": "E",
+                    "name": "IRONWOOD WALL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/6b671ac4-7312-4702-8062-5f3d93cdbcd4.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "SPORE BOMB",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/bba9fe65-f6c7-46de-807c-0ba36c78e505.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "FLORA COLOSSUS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/9a004657-cc4f-47c9-8f81-a4d3471a03bb.png"
+                },
+                {
+                    "button": "V",
+                    "name": "FURIOUS FLORA",
+                    "img_src": "https://r.res.easebar.com/pic/20241125/32653d8e-2a57-460d-af0a-72f35b84b607.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "FRIENDLY SHOULDER",
+                    "team_up_name": "PLANET X PALS"
+                }
+            ]
+        },
+        {
+            "hero_name": "HAWKEYE",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "PIERCING ARROW",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/9107db4e-f275-49aa-87bf-96c697157a15.png"
+                },
+                {
+                    "button": "L CLICK",
+                    "name": "BLAST ARROW",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/b54fcda9-4e31-4a7b-87c7-c7e8fd675434.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "HUNTER'S SIGHT",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/15af78f7-6723-402d-916e-0e17ebf4b6df.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "CRESCENT SLASH",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/a598cd3c-e1d2-4403-8d48-13bf9dcf1b39.png"
+                },
+                {
+                    "button": "E",
+                    "name": "HYPERSONIC ARROW",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/96e35f6b-b42a-461a-9cd9-554ed05e3470.png"
+                },
+                {
+                    "button": "V",
+                    "name": "RONIN SLASH",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/d8d9cc33-6737-4481-b442-ce0375138806.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "SKYWARD LEAP",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/83892ce1-2db5-4c6c-a0f2-a4117ab86aab.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "ARCHER'S FOCUS",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/54419864-579b-4029-bc38-150d604b96c2.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "SUPERSENSORY VISION",
+                    "team_up_name": "ALLIED AGENTS"
+                }
+            ]
+        },
+        {
+            "hero_name": "HELA",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "NIGHTSWORD THORN",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ea4b3942-f0b3-43b4-a2fc-d5b43b6a8b35.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "GODDESS OF DEATH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/cc37d07b-7128-47a0-8706-240fda571a47.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "ASTRAL FLOCK",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/e9a46cd0-2dcc-4835-9f4b-f18302c03eac.png"
+                },
+                {
+                    "button": "E",
+                    "name": "SOUL DRAINER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/558313fc-c58a-4507-a812-18e9acf92b97.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "PIERCING NIGHT",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/b40f4698-b5ca-4cd1-a8fd-4ff916f1a5da.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "NASTROND CROWSTORM",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/f7bbe4b0-932e-421b-a60e-d5fb5560c6f7.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "HEL'S DESCENT",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/29f6f04d-087b-4e97-8aeb-3b505b3c2952.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "QUEEN OF HEL",
+                    "team_up_name": "RAGNAROK REBIRTH"
+                }
+            ]
+        },
+        {
+            "hero_name": "HULK",
+            "forms": [
+                {
+                    "form_name": "BRUCE BANNER",
+                    "abilities": [
+                        {
+                            "button": "L CLICK",
+                            "name": "GAMMA RAY GUN",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/8cb6a38e-5f26-483e-8b6c-92ff443084d1.png"
+                        },
+                        {
+                            "button": "Q",
+                            "name": "PUNY BANNER",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/9a3b272b-318b-45e2-a863-274aa7bcf288.png"
+                        },
+                        {
+                            "button": "SHIFT",
+                            "name": "GAMMA GRENADE",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/3187b7a0-06b5-4e1c-babe-796554bc2430.png"
+                        }
+                    ]
+                },
+                {
+                    "form_name": "HULK",
+                    "abilities": [
+                        {
+                            "button": "L CLICK",
+                            "name": "HEAVY BLOW",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/cc774c86-d162-462f-95d0-1b11d36eed83.png"
+                        },
+                        {
+                            "button": "Q",
+                            "name": "HULK SMASH!",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/a3a3990b-5005-4616-abc2-96e48a971420.png"
+                        },
+                        {
+                            "button": "SHIFT",
+                            "name": "INDESTRUCTIBLE GUARD",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/4879fdb5-3227-4af4-9264-dd04c12941b4.png"
+                        },
+                        {
+                            "button": "E",
+                            "name": "RADIOACTIVE LOCKDOWN",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/172254e3-9768-4dec-9157-76b456d5383d.png"
+                        },
+                        {
+                            "button": "SPACE",
+                            "name": "INCREDIBLE LEAP",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/b74339de-5816-4639-ba7f-d32d39f620cd.png"
+                        },
+                        {
+                            "button": "R CLICK",
+                            "name": "GAMMA BURST",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/c55bb9d3-8b8b-44ad-ac43-4fb9bcf02130.png"
+                        }
+                    ]
+                },
+                {
+                    "form_name": "MONSTER HULK",
+                    "abilities": [
+                        {
+                            "button": "Q",
+                            "name": "WORLD BREAKER",
+                            "img_src": "https://r.res.easebar.com/pic/20241120/e2c65ff1-2180-4f19-b7b0-1cf08ad1b1c4.png"
+                        }
+                    ]
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "GAMMA BOOST",
+                    "team_up_name": "GAMMA CHARGE"
+                },
+                {
+                    "button": "C",
+                    "name": "GAMMA FASTBALL",
+                    "team_up_name": "FASTBALL SPECIAL"
+                }
+            ]
+        },
+        {
+            "hero_name": "INVISIBLE WOMAN",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "ORB PROJECTION",
+                    "img_src": "https://r.res.easebar.com/pic/20250110/79e037c4-353c-46a1-abb1-1188ff3f98e3.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "GUARDIAN SHIELD",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/af32c3d3-713a-4faf-90f7-1be2dcfa8cbd.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "PSIONIC VORTEX",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/308c5ab3-2b3f-4f53-9eb6-05c171ad4863.png"
+                },
+                {
+                    "button": "E",
+                    "name": "FORCE PHYSICS",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/0d7893e9-e90e-483f-8b90-414535d6f133.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "INVISIBLE BOUNDARY",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/c10fa2f1-64e5-417a-abbe-0092e98b0afb.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "COVERT ADVANCE",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/d273333c-e1da-4d98-925d-b7ce8601144c.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "VEILED STEP",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/eb7b6f46-9d82-4df8-a513-8d94c07546e9.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "FANTASTI-FORCE",
+                    "team_up_name": "FANTASTIC FOUR"
+                }
+            ]
+        },
+        {
+            "hero_name": "IRON FIST",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "JEET KUNE DO",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/08e65caa-9aa0-425c-aeba-fa1544c03be2.png"
+                },
+                {
+                    "button": "L CLICK",
+                    "name": "YAT JEE CHUNG KUEN",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/fd8bfe86-ffd7-4752-9da3-d005bafa8668.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "LIVING CHI",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/080f088b-94dd-45ac-9bc7-9e5c512d51d0.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "K'UN-LUN KICK",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/e5377516-d352-4169-bb87-7bd68523dda7.png"
+                },
+                {
+                    "button": "E",
+                    "name": "HARMONY RECOVERY",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/14e2c16b-cf9f-4e49-bef0-690bcc3d910c.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "CRANE LEAP",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/62f2f94b-228c-4015-9d56-b9134c171cf5.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "DRAGON'S DEFENSE",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/5745baab-4f3f-47f0-9eb0-8b8ea67f81f2.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "WALL RUNNER",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/53125bd3-2ca7-4b39-a51c-bac18c6ecfdd.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "CHI ABSORPTION",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/2946ce20-8956-4efb-9729-afbdaa5efc51.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "DRAGON'S CHILL",
+                    "team_up_name": "ATLAS BOND"
+                }
+            ]
+        },
+        {
+            "hero_name": "IRON MAN",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "REPULSOR BLAST",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/d69cf17a-732e-486d-87e3-43c5892e42c3.png"
+                },
+                {
+                    "button": "L CLICK",
+                    "name": "REPULSOR BLAST (ARMOR OVERDRIVE)",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/d69cf17a-732e-486d-87e3-43c5892e42c3.png"
+                },
+                {
+                    "button": "L CLICK",
+                    "name": "REPULSOR BLAST (GAMMA OVERDRIVE)",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/d69cf17a-732e-486d-87e3-43c5892e42c3.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "UNIBEAM",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/5a005241-4e91-4240-9da0-671454971524.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "UNIBEAM (ARMOR OVERDRIVE)",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/5a005241-4e91-4240-9da0-671454971524.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "UNIBEAM (GAMMA OVERDRIVE)",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/5a005241-4e91-4240-9da0-671454971524.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "INVINCIBLE PULSE CANNON",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/35909ad4-f7f5-4d30-8d58-b076bebca067.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "HYPER-VELOCITY",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ea996cd4-74a0-40d7-9498-3253084b9be2.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "HYPER-VELOCITY (ARMOR OVERDRIVE)",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ea996cd4-74a0-40d7-9498-3253084b9be2.png"
+                },
+                {
+                    "button": "E",
+                    "name": "ARMOR OVERDRIVE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/27f07e85-4220-4227-892b-04c9850a7c02.png"
+                },
+                {
+                    "button": "F",
+                    "name": "MICRO-MISSILE BARRAGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/19e4e5da-fa8d-4cf8-a817-1111d91dc389.png"
+                },
+                {
+                    "button": "F",
+                    "name": "MICRO-MISSILE BARRAGE (ARMOR OVERDRIVE)",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/19e4e5da-fa8d-4cf8-a817-1111d91dc389.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "E",
+                    "name": "GAMMA OVERDRIVE",
+                    "team_up_name": "GAMMA CHARGE"
+                }
+            ]
+        },
+        {
+            "hero_name": "JEFF THE LAND SHARK",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "JOYFUL SPLASH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/404c171f-9a95-4341-8313-b2f6d16fd6f1.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "AQUA BURST",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/247fc32e-57f7-4bc3-a52a-ed9e9a46e49e.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "IT'S JEFF!",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/25d707ba-9f22-4b05-bb8e-d2eb22a8f1f5.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "HIDE AND SEEK",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ef573d4e-d703-4015-982f-e171765bc65f.png"
+                },
+                {
+                    "button": "E",
+                    "name": "HEALING BUBBLE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/4d341032-2db5-4cb1-84eb-2ecaa167bd2f.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "OBLIVIOUS CUTENESS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/d976ea1f-f15a-4b12-8a47-edbb88304548.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "X",
+                    "name": "FROZEN SPITBALL",
+                    "team_up_name": "CHILLING CHARISMA"
+                },
+                {
+                    "button": "C",
+                    "name": "NEW FRIENDS",
+                    "team_up_name": "PLANET X PALS"
+                }
+            ]
+        },
+        {
+            "hero_name": "LOKI",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "MYSTICAL MISSILE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ed396f47-c71d-47d9-b81b-3345b8dc9622.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "GOD OF MISCHIEF",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/8348514b-e03f-442b-9aa2-ab90fcd2186a.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "REGENERATION DOMAIN",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/e7dd8ace-749c-49a0-bc71-bb9c59a8ba2f.png"
+                },
+                {
+                    "button": "E",
+                    "name": "DOPPELGANGER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ef9f3e86-7ad9-4ad4-8ca5-490d580e567b.png"
+                },
+                {
+                    "button": "F",
+                    "name": "DEVIOUS EXCHANGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ac0da903-c22d-4471-bff9-d7df0a2a6ba6.png"
+                },
+                {
+                    "button": "V",
+                    "name": "BACKSTAB",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/fe10c19c-0649-4c4d-a406-4e7ea9ada27a.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "DECEPTION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ed974a34-cbea-4529-b613-028bb481b125.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "LAUFEYSON REBORN",
+                    "team_up_name": "RAGNAROK REBIRTH"
+                }
+            ]
+        },
+        {
+            "hero_name": "LUNA SNOW",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "LIGHT & DARK ICE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/9b9358c8-4975-450c-8f88-5e18d637d0c4.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "FATE OF BOTH WORLDS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/47cd68fc-feb1-45d8-b204-69e09294dc80.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "ICE ARTS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/db8d7bd7-8433-4b9c-b79a-4893df673815.png"
+                },
+                {
+                    "button": "E",
+                    "name": "SHARE THE STAGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/c5d05de8-094f-4003-81bc-449b5e9b65d0.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "ABSOLUTE ZERO",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/3bbafdb7-d05d-4040-ac35-ba3ef0e021ba.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "CRYO HEART",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/1e2f39fb-fb72-4b78-923d-09ba6b076e4f.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "SMOOTH SKATE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/c672e9c6-8368-4a9b-88b5-d78fefe000ba.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "ICY DISCO",
+                    "team_up_name": "CHILLING CHARISMA"
+                },
+                {
+                    "button": "C",
+                    "name": "FROZEN CHI",
+                    "team_up_name": "ATLAS BOND"
+                }
+            ]
+        },
+        {
+            "hero_name": "MAGIK",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "SOULSWORD",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/3c254667-aec0-4d1f-bac8-8f74e5c7ec57.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "DARKCHILD",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/54ceb957-f089-4149-9b6e-f19b0b434f76.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "STEPPING DISCS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/83bdc026-b6c1-4c72-8a4e-b82036d06a5b.png"
+                },
+                {
+                    "button": "E",
+                    "name": "UMBRAL INCURSION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/23e2f98e-b25d-465f-8aca-92772da73677.png"
+                },
+                {
+                    "button": "L CLICK",
+                    "name": "ELDRITCH WHIRL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/a360c242-9475-4d7b-ba43-efb57fdbc44a.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "MAGIK SLASH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ddcc3be2-0a9f-4588-bbeb-b6ecc289d8cf.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "DEMON'S RAGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/a9c67524-0a71-4106-8a95-f26d78aa15e1.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "LIMBO'S MIGHT",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ca2c47d6-8349-4bae-b6bc-58436c47776b.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "DISC MASTER",
+                    "team_up_name": "DIMENSIONAL SHORTCUT"
+                }
+            ]
+        },
+        {
+            "hero_name": "MAGNETO",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "IRON VOLLEY",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/3401f142-e87e-40ad-8ff2-3a749a6f4984.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "METEOR M",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/9cd870bb-e876-438b-9416-b230d990d3e8.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "METALLIC CURTAIN",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/e834f5cc-ab25-4c64-8c84-4fc1e19f4f7c.png"
+                },
+                {
+                    "button": "E",
+                    "name": "METAL BULWARK",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/3b28340a-e0b8-4801-98b5-32ca9934bb01.png"
+                },
+                {
+                    "button": "F",
+                    "name": "IRON BULWARK",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/02e7eb06-6242-43ba-bd8d-3ae7e124f774.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "MAG-CANNON",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/fa0cf0a3-32cc-4104-8c74-4fe98a7b8628.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "MAGNETIC DESCENT",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/d59de34f-22d9-459b-9469-8a2bb8ce714c.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "METALLIC FUSION",
+                    "team_up_name": "METALLIC CHAOS"
+                }
+            ]
+        },
+        {
+            "hero_name": "MANTIS",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "LIFE ENERGY BLAST",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/53a8b0e2-f33b-4630-a318-b11feeb63da7.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "SOUL RESURGENCE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/6185722d-c92f-4eab-8a8c-106168ad6e1a.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "SPORE SLUMBER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/297739c8-b9b1-4d0c-9578-0ba4d2cede4e.png"
+                },
+                {
+                    "button": "E",
+                    "name": "ALLIED INSPIRATION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/c43c7aff-d641-4b43-829b-ddf53bf2b3e7.png"
+                },
+                {
+                    "button": "F",
+                    "name": "NATURAL ANGER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/a414ebec-b637-44c3-83dd-4db27749575b.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "HEALING FLOWER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/cd2771ec-d276-4a64-91fd-faa67a121da6.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "NATURE'S FAVOR",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/b921470f-e723-4129-847e-be24fd974552.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "NATURE'S SOUL",
+                    "team_up_name": "GUARDIAN REVIVAL"
+                }
+            ]
+        },
+        {
+            "hero_name": "MISTER FANTASTIC",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "STRETCH PUNCH",
+                    "img_src": "https://r.res.easebar.com/pic/20250110/6ca25ced-20ea-495c-b403-d84fa949b02a.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "DISTENDED GRIP",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/f2a1a063-eb4b-4274-a9b8-fac92c4abeba.png"
+                },
+                {
+                    "button": "E",
+                    "name": "FLEXIBLE ELONGATION",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/014f9fc0-5b64-4c2d-afb1-4669b7b5369c.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "REFLEXIVE RUBBER",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/d152620a-90bc-407e-a3f1-b137503624d0.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "BRAINIAC BOUNCE",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/05dcb43c-4de3-483a-afc6-d06c6e76e4ff.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "ELASTIC STRENGTH",
+                    "img_src": "https://r.res.easebar.com/pic/20250108/25010c9f-083e-4097-a443-544e0eeaa0ab.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "WEDDED HARMONY",
+                    "team_up_name": "FANTASTIC FOUR"
+                }
+            ]
+        },
+        {
+            "hero_name": "MOON KNIGHT",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "CRESCENT DART",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/f4bab63c-dd7b-4ddc-b9f5-d0481acffaf3.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "HAND OF KHONSHU",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/9253ada4-37a7-4cc9-9008-2d3e748d8dc1.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "NIGHT GLIDER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/815eee35-da1f-4c84-808b-ce71aa39df9c.png"
+                },
+                {
+                    "button": "E",
+                    "name": "ANCIENT ANKH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/4dee2bf5-3255-4ce7-bfe4-463eb64bda06.png"
+                },
+                {
+                    "button": "F",
+                    "name": "MOONLIGHT HOOK",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/60e26c6a-92ea-4e8a-a669-4c3a9be668f7.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "RISING LEAP",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/f7f1a460-7069-42b0-b926-a5fd1c43d171.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "MOON BLADE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/7864c28b-7c4b-4cc4-8e74-d600e7c586ee.png"
+                },
+                {
+                    "button": "V",
+                    "name": "TRIPLE ECLIPSE",
+                    "img_src": "https://r.res.easebar.com/pic/20241125/9b92fd1c-3cdc-4d9d-83cf-f43d6706a73d.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "FULL MOON",
+                    "team_up_name": "LUNAR FORCE"
+                }
+            ]
+        },
+        {
+            "hero_name": "NAMOR",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "TRIDENT OF NEPTUNE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/cc74a8d7-aa7a-4bef-9777-6f2499ece5a4.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "HORN OF PROTEUS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/41fb388d-1b2c-433f-ab04-3a02562c5b19.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "BLESSING OF THE DEEP",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/e301578f-ee43-42c9-a95a-f162259d62fb.png"
+                },
+                {
+                    "button": "E",
+                    "name": "AQUATIC DOMINION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/4bf22127-5c87-4163-82d7-ba90c1edae57.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "WRATH OF THE SEVEN SEAS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/0e8f873c-9edf-43ff-87f8-1db24dcb4500.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "FROZEN SPAWN",
+                    "team_up_name": "CHILLING CHARISMA"
+                }
+            ]
+        },
+        {
+            "hero_name": "PENI PARKER",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "CYBER-WEB CLUSTER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/2b24b421-99cf-4e20-b584-8f8e755911af.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "SPIDER-SWEEPER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/bcccc074-f210-4239-a6e1-05ae478859a6.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "BIONIC SPIDER-NEST",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/b0a9458d-2a87-483c-a165-c362bf34d179.png"
+                },
+                {
+                    "button": "E",
+                    "name": "ARACHNO-MINE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/a0c17f1d-4984-4961-af7a-515078b751a4.png"
+                },
+                {
+                    "button": "F",
+                    "name": "CYBER-BOND",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/6146023c-4c46-4135-aba6-79eff6014d3b.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "WALL CRAWL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/a812a9bf-dcaa-443a-870f-79586813d558.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "CYBER-WEB SNARE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/036e9648-779e-48a7-ab8b-0e60bc0c5bd1.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "ARMOR EXPULSION",
+                    "team_up_name": "SYMBIOTE BOND"
+                }
+            ]
+        },
+        {
+            "hero_name": "PSYLOCKE",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "PSIONIC CROSSBOW",
+                    "img_src": "https://r.res.easebar.com/pic/20241127/95719d81-365d-4ad7-bf6b-026166c95aed.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "DANCE OF THE BUTTERFLY",
+                    "img_src": "https://r.res.easebar.com/pic/20241127/dabcc1e3-5490-4fa4-87ab-b9440a74b69b.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "PSI-BLADE DASH",
+                    "img_src": "https://r.res.easebar.com/pic/20241127/af147052-f9a1-416b-8bfc-0143471b18c1.png"
+                },
+                {
+                    "button": "E",
+                    "name": "PSYCHIC STEALTH",
+                    "img_src": "https://r.res.easebar.com/pic/20241127/55b04754-bda5-4bcf-8a95-44479c836508.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "WING SHURIKENS",
+                    "img_src": "https://r.res.easebar.com/pic/20241127/90b85285-ea24-4fb2-8ec4-b60d3f177569.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "PSIONIC DISC",
+                    "team_up_name": "DIMENSIONAL SHORTCUT"
+                }
+            ]
+        },
+        {
+            "hero_name": "ROCKET RACCOON",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "BOMBARD MODE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/6d5fc9e6-f194-494f-bcb9-a0eea60e7f60.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "REPAIR MODE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/8e83a73c-dbc6-4d8b-bf0e-2f6fbffe20a4.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "C.Y.A.",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/8fa6c871-fb91-4115-bf94-a1ccf6f12d2c.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "JETPACK DASH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/66c6ccca-0e2b-4c87-87c3-29fddfa3b4c1.png"
+                },
+                {
+                    "button": "E",
+                    "name": "B.R.B.",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/f5f99d54-aeaa-4dc8-bad1-7c0e390434cf.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "WILD CRAWL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/2bf79c26-d564-4a9e-8148-85e5b44add4f.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "FLYING ACE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/75456c26-a53f-4d7e-955f-b663d7dd337a.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "OLD FRIENDS",
+                    "team_up_name": "PLANET X PALS"
+                },
+                {
+                    "button": "Z",
+                    "name": "AMMO INVENTION",
+                    "team_up_name": "AMMO OVERLOAD"
+                }
+            ]
+        },
+        {
+            "hero_name": "SCARLET WITCH",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "CHAOS CONTROL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/9df1d11b-6486-4f0e-83a8-b7e5dca461b6.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "REALITY ERASURE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/9fe279e3-1ca1-4202-b925-4eaddc649f14.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "MYSTIC PROJECTION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/a1bd056d-4040-4dda-a79a-c1c721718e2b.png"
+                },
+                {
+                    "button": "E",
+                    "name": "DARK SEAL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/06d393d2-e8b7-443c-8e04-3696ecefac86.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "TELEKINESIS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/2893e078-cc3e-49ec-8447-4ff73a549139.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "CHTHONIAN BURST",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/97e67269-1308-46d2-aef0-99ef179d9748.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "CHAOTIC BOND",
+                    "team_up_name": "METALLIC CHAOS"
+                }
+            ]
+        },
+        {
+            "hero_name": "SPIDER-MAN",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "SPIDER-POWER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/b69dc2e7-1a28-471e-a000-19b06a1adac4.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "CYBER-WEB CLUSTER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/51836fcc-b278-46b2-80d6-3450f9902f18.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "SPECTACULAR SPIN",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/df0e1190-adea-471c-aa47-186aaabe41dc.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "WEB-SWING",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/fb95e6a5-5e9d-44d7-b565-2cda190e0cb8.png"
+                },
+                {
+                    "button": "E",
+                    "name": "GET OVER HERE!",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/d3b40d5d-cb78-4e6d-990c-0ec61404f8e0.png"
+                },
+                {
+                    "button": "F",
+                    "name": "AMAZING COMBO",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/db4cbe9c-98b6-47b2-849b-655e63c86f87.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "THWIP AND FLIP",
+                    "img_src": "https://r.res.easebar.com/pic/20241124/82debb10-0166-41c3-914e-9dee98cd30af.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "SPIDER-SENSE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/70f075d3-fdcc-4339-b537-061af16fae55.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "WALL CRAWL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/e0ab4409-cfaa-4e13-9731-240a09a6a553.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "SUIT EXPULSION",
+                    "team_up_name": "SYMBIOTE BOND"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "EXTRA WEB-FLUID",
+                    "team_up_name": "ESU ALUMNUS"
+                }
+            ]
+        },
+        {
+            "hero_name": "SQUIRREL GIRL",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "BURST ACORN",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/662dd801-7b3c-4929-bca7-4696b104811d.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "UNBEATABLE SQUIRREL TSUNAMI",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/f87d8f38-b7d1-4a62-9aaa-eb00423c38d2.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "TAIL BOUNCE",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/cc6be0d3-f369-4fcf-861d-5e0f2594af1a.png"
+                },
+                {
+                    "button": "E",
+                    "name": "MAMMAL BOND",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/5714be78-0962-47d3-b231-1a3b6d8d98d3.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "SQUIRREL BLOCKADE",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/403af848-dda8-42f7-a2a0-b3d0959eeefe.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "WEBBED ACORN",
+                    "team_up_name": "ESU ALUMNUS"
+                }
+            ]
+        },
+        {
+            "hero_name": "STAR-LORD",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "ELEMENT GUNS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/947d9975-ec6d-4d17-b00b-ce4642fafebc.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "GALACTIC LEGEND",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/cdfdc8b1-27e7-4a28-a666-3a3387b92263.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "ROCKET PROPULSION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/2c065ae8-398d-4001-a38d-c30a2d4737bc.png"
+                },
+                {
+                    "button": "E",
+                    "name": "BLASTER BARRAGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/00802ad1-6900-44dc-a134-258fae77b326.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "STELLAR SHIFT",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/8f25f3a9-7dba-437d-b794-fed37ea2fdd3.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "LEADER'S SOUL",
+                    "team_up_name": "GUARDIAN REVIVAL"
+                }
+            ]
+        },
+        {
+            "hero_name": "STORM",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "WIND BLADE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/ac2de8df-0a48-4c10-b0be-090c2662d5e6.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "OMEGA HURRICANE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/618d0d4a-f522-4ea9-9f11-64de62abe3ad.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "WEATHER CONTROL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/10b670aa-f6c6-4775-811a-5d9c4e3ae6cf.png"
+                },
+                {
+                    "button": "E",
+                    "name": "GODDESS BOOST",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/af7bafa6-fe10-45d2-8a65-f1523f9c5223.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "BOLT RUSH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/644cd425-b90f-41dd-b750-8d11c36e04d1.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "CHARGED GALE",
+                    "team_up_name": "VOLTAIC UNION"
+                }
+            ]
+        },
+        {
+            "hero_name": "THE PUNISHER",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "ADJUDICATION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/e755fe97-976b-43f7-90d8-e791ca310df1.png"
+                },
+                {
+                    "button": "L CLICK",
+                    "name": "DELIVERANCE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/b420c662-6d55-438d-932a-d2947005b6de.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "FINAL JUDGEMENT",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/6695cf9f-352c-4bf3-aab1-1824ecf39c95.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "VANTAGE CONNECTION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/e39565ca-3dfd-4794-bb51-23ec19256130.png"
+                },
+                {
+                    "button": "E",
+                    "name": "CULLING TURRET",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/3806a440-7ae1-4a86-8b75-09c34be080fd.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "SCOURGE GRENADE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/d9b61f83-54c3-42e7-9ac1-aadb46562237.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "WARRIOR'S GAZE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/c121a9dc-8597-45f7-8495-4dea1b7c043b.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "NONE",
+                    "name": "INFINITE PUNISHMENT",
+                    "team_up_name": "AMMO OVERLOAD"
+                }
+            ]
+        },
+        {
+            "hero_name": "THOR",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "MJOLNIR BASH",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/5767ff16-bdb0-4e38-be05-f86ae73aef7e.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "GOD OF THUNDER",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/68c2df37-4e4b-48be-af36-22a545b1cb8d.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "STORM SURGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/b18044b4-d344-4400-95aa-1db27f994c9c.png"
+                },
+                {
+                    "button": "E",
+                    "name": "LIGHTNING REALM",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/37d0dc4d-ca68-48f0-8e5a-d7511b05b02e.png"
+                },
+                {
+                    "button": "F",
+                    "name": "AWAKENING RUNE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/77bc01c1-2967-4660-a899-87a8b6c3efe5.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "HAMMER THROW",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/06301e2b-a041-47cb-bf81-009ef24c3a3d.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "THORFORCE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/78caf91d-ecd4-431c-9e43-31558f4e5fa9.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "ODINSON REBORN",
+                    "team_up_name": "RAGNAROK REBIRTH"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "THUNDEROUS DEITY",
+                    "team_up_name": "VOLTAIC UNION"
+                }
+            ]
+        },
+        {
+            "hero_name": "VENOM",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "DARK PREDATION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/bc30fb5a-7d0a-4acb-9cc7-68d9ce23471f.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "FEAST OF THE ABYSS",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/8d6946a4-fdcd-4260-a36b-4d6367c22910.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "VENOM SWING",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/e3d5d3b0-9605-4bdd-8e7d-5b10a96f6fdc.png"
+                },
+                {
+                    "button": "E",
+                    "name": "SYMBIOTIC RESILIENCE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/6cbe943b-e6aa-46d3-9c54-bff3d7264fcc.png"
+                },
+                {
+                    "button": "F",
+                    "name": "FRENZIED ARRIVAL",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/bd5d9e69-ca07-465d-aafa-c7225d6a6f7f.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "CELLULAR CORROSION",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/67d47ae7-0b50-42ec-98d4-b704e68e8c0d.png"
+                },
+                {
+                    "button": "SPACE",
+                    "name": "ALIEN BIOLOGY",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/5ac60cab-09a4-4f2a-8236-75b82ed43c39.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "PASSIVE",
+                    "name": "TOUCH OF KLYNTAR",
+                    "team_up_name": "SYMBIOTE BOND"
+                }
+            ]
+        },
+        {
+            "hero_name": "WINTER SOLDIER",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "ROTERSTERN",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/c394a786-61e2-4311-af38-ddbb77fb0c17.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "KRAKEN IMPACT",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/a53ce147-45d7-472a-b01d-27c0824f21e0.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "TROOPER'S FIST",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/239b4e01-33ed-4f71-afd9-845810e96b8e.png"
+                },
+                {
+                    "button": "E",
+                    "name": "TAINTED VOLTAGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/65cf216c-9ad1-4a8e-9e2c-d7f1c2a9964c.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "BIONIC HOOK",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/4173fa58-8641-47f9-9ee5-b63472fe074e.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "CEASELESS CHARGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241120/55a1b572-78dd-47c3-8006-5b26e8d8813a.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "NONE",
+                    "name": "INFINITE GRIT",
+                    "team_up_name": "AMMO OVERLOAD"
+                }
+            ]
+        },
+        {
+            "hero_name": "WOLVERINE",
+            "abilities": [
+                {
+                    "button": "L CLICK",
+                    "name": "SAVAGE CLAW",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/97b1d4c6-7ea2-43f2-b528-5ea88904853f.png"
+                },
+                {
+                    "button": "Q",
+                    "name": "LAST STAND",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/6900d5e2-7074-4c28-a424-4015ad9780a8.png"
+                },
+                {
+                    "button": "SHIFT",
+                    "name": "FERAL LEAP",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/e88c7523-3fab-4cfb-a954-080c5824f0fe.png"
+                },
+                {
+                    "button": "E",
+                    "name": "UNDYING ANIMAL",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/15a76d54-520c-447a-b8f1-2ab0a488faac.png"
+                },
+                {
+                    "button": "R CLICK",
+                    "name": "VICIOUS RAMPAGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/a015b659-87d4-4569-a870-4af03347ecb3.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "REGENERATIVE HEALING FACTOR",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/031e30b1-f8d7-4be1-9a03-b758bdddc6be.png"
+                },
+                {
+                    "button": "PASSIVE",
+                    "name": "BERSERKER RAGE",
+                    "img_src": "https://r.res.easebar.com/pic/20241205/e97de2d3-6f28-4619-80cd-59da00931e8b.png"
+                }
+            ],
+            "team_ups": [
+                {
+                    "button": "C",
+                    "name": "METAL CANNONBALL",
+                    "team_up_name": "GAMMA FASTBALL"
+                }
+            ]
+        }
+    ],
+    "team-up_abilites": [
+        {
+            "team-up_name": "RAGNAROK REBIRTH",
+            "heroes": [
+                "LOKI",
+                "THOR",
+                "HELA"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/3dc92fdf-ed65-430f-b25f-5a979de7dbb7.png"
+        },
+        {
+            "team-up_name": "METALLIC CHAOS",
+            "heroes": [
+                "SCARLET WITCH",
+                "MAGNETO"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/dffd4b0c-c8bc-4145-b886-9273f6b6e396.png"
+        },
+        {
+            "team-up_name": "VOLTAIC UNION",
+            "heroes": [
+                "STORM",
+                "CAPTAIN AMERICA",
+                "THOR"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/e660016d-7420-4c85-9318-b35a851d3fc3.png"
+        },
+        {
+            "team-up_name": "PLANET X PALS",
+            "heroes": [
+                "ROCKET RACOON",
+                "JEFF THE LAND SHARK",
+                "GROOT"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/91d6589b-a94d-42fa-aa79-bd4d2699256a.png"
+        },
+        {
+            "team-up_name": "SYMBIOTE BOND",
+            "heroes": [
+                "SPIDER-MAN",
+                "PENI PARKER",
+                "VENOM"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/9da8d6ca-916c-4a1a-8ee2-7548f8e70cb8.png"
+        },
+        {
+            "team-up_name": "GAMMA CHARGE",
+            "heroes": [
+                "HULK",
+                "DOCTOR STRANGE",
+                "IRON MAN"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/9827d005-33a5-4e2c-a5e1-ab3daeecd4af.png"
+        },
+        {
+            "team-up_name": "AMMO OVERLOAD",
+            "heroes": [
+                "ROCKET RACOON",
+                "PUNISHER",
+                "WINTER SOLDIER"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/95ac0f2c-cd6c-4498-9586-9235b8246a18.png"
+        },
+        {
+            "team-up_name": "DIMENSIONAL SHORTCUT",
+            "heroes": [
+                "MAGIK",
+                "BLACK PANTHER",
+                "PSYLOCKE"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241128/83b256d2-edbc-4522-95bd-1d3346bd1abd.png"
+        },
+        {
+            "team-up_name": "LUNAR FORCE",
+            "heroes": [
+                "CLOAK & DAGGER",
+                "MOON KNIGHT"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241205/e988c4e5-ce08-4154-a170-9eefdf54d96a.png"
+        },
+        {
+            "team-up_name": "GUARDIAN REVIVAL",
+            "heroes": [
+                "STAR-LORD",
+                "MANTIS",
+                "ADAM WARLOCK"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/b8026aef-e721-4191-86bf-c147c8bccd11.png"
+        },
+        {
+            "team-up_name": "CHILLING CHARISMA",
+            "heroes": [
+                "NAMOR",
+                "JEFF THE LAND SHARK",
+                "LUNA SNOW"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241120/6548ac33-735a-45bd-83cd-1372a3eb9aa0.png"
+        },
+        {
+            "team-up_name": "ALLIED AGENTS",
+            "heroes": [
+                "BLACK WIDOW",
+                "HAWKEYE"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241205/bc0b5e10-13bc-4851-ac88-c34fcad6f313.png"
+        },
+        {
+            "team-up_name": [
+                "GAMMA FASTBALL",
+                "FASTBALL SPECIAL"
+            ],
+            "heroes": [
+                "HULK",
+                "WOLVERINE"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241205/cb438e5d-7e3c-47ff-af80-0b776f860874.png"
+        },
+        {
+            "team-up_name": "ESU ALUMNUS",
+            "heroes": [
+                "SPIDER-MAN",
+                "SQUIRREL GIRL"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241205/bf009e14-c87e-46cc-8fa0-f5458c72cd5b.png"
+        },
+        {
+            "team-up_name": "ATLAS BOND",
+            "heroes": [
+                "IRON FIST",
+                "LUNA SNOW"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20241205/26c18f65-fe43-4cd5-9419-95b746f486cc.png"
+        },
+        {
+            "team-up_name": "FANTASTIC FOUR",
+            "heroes": [
+                "INVISIBLE WOMAN",
+                "MISTER FANTASTIC"
+            ],
+            "img_src": "https://r.res.easebar.com/pic/20250109/053365f9-0714-4d9c-a51f-2fd1c173a7f3.png"
+        }
+    ]
+}
