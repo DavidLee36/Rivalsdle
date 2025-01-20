@@ -1,0 +1,142 @@
+[
+    {
+        "game_name": "ADAM WARLOCK",
+        "lore_name": "magus-adam-warlock"
+    },
+    {
+        "game_name": "BLACK PANTHER",
+        "lore_name": "black-panther-t-challa"
+    },
+    {
+        "game_name": "BLACK WIDOW",
+        "lore_name": "black-widow-natasha-romanova"
+    },
+    {
+        "game_name": "CAPTAIN AMERICA",
+        "lore_name": "captain-america-steve-rogers"
+    },
+    {
+        "game_name": "CLOAK & DAGGER",
+        "lore_name": "manual"
+    },
+    {
+        "game_name": "DOCTOR STRANGE",
+        "lore_name": "doctor-strange-stephen-strange"
+    },
+    {
+        "game_name": "GROOT",
+        "lore_name": "groot"
+    },
+    {
+        "game_name": "HAWKEYE",
+        "lore_name": "hawkeye-clint-barton"
+    },
+    {
+        "game_name": "HELA",
+        "lore_name": "hela"
+    },
+    {
+        "game_name": "HULK",
+        "lore_name": "hulk-bruce-banner"
+    },
+    {
+        "game_name": "INVISIBLE WOMAN",
+        "lore_name": "invisible-woman"
+    },
+    {
+        "game_name": "IRON FIST",
+        "lore_name": "iron-fist-danny-rand"
+    },
+    {
+        "game_name": "IRON MAN",
+        "lore_name": "iron-man-tony-stark"
+    },
+    {
+        "game_name": "LOKI",
+        "lore_name": "loki"
+    },
+    {
+        "game_name": "JEFF THE LAND SHARK",
+        "lore_name": "manual"
+    },
+    {
+        "game_name": "LUNA SNOW",
+        "lore_name": "manual"
+    },
+    {
+        "game_name": "MAGIK",
+        "lore_name": "magik-illyana-rasputin"
+    },
+    {
+        "game_name": "MAGNETO",
+        "lore_name": "magneto-max-eisenhardt"
+    },
+    {
+        "game_name": "MANTIS",
+        "lore_name": "mantis"
+    },
+    {
+        "game_name": "MISTER FANTASTIC",
+        "lore_name": "mister-fantastic"
+    },
+    {
+        "game_name": "MOON KNIGHT",
+        "lore_name": "moon-knight-marc-spector"
+    },
+    {
+        "game_name": "NAMOR",
+        "lore_name": "namor"
+    },
+    {
+        "game_name": "PENI PARKER",
+        "lore_name": "manual"
+    },
+    {
+        "game_name": "PSYLOCKE",
+        "lore_name": "manual"
+    },
+    {
+        "game_name": "ROCKET RACOON",
+        "lore_name": "rocket"
+    },
+    {
+        "game_name": "SCARLET WITCH",
+        "lore_name": "scarlet-witch-wanda-maximoff"
+    },
+    {
+        "game_name": "SPIDER-MAN",
+        "lore_name": "spider-man-peter-parker"
+    },
+    {
+        "game_name": "SQUIRREL GIRL",
+        "lore_name": "squirrel-girl-doreen-green"
+    },
+    {
+        "game_name": "STAR-LORD",
+        "lore_name": "star-lord-peter-quill"
+    },
+    {
+        "game_name": "STORM",
+        "lore_name": "storm"
+    },
+    {
+        "game_name": "THE PUNISHER",
+        "lore_name": "punisher-frank-castle"
+    },
+    {
+        "game_name": "THOR",
+        "lore_name": "thor-thor-odinson"
+    },
+    {
+        "game_name": "VENOM",
+        "lore_name": "venom-eddie-brock"
+    },
+    {
+        "game_name": "WINTER SOLDIER",
+        "lore_name": "winter-soldier-bucky-barnes"
+    },
+    {
+        "game_name": "WOLVERINE",
+        "lore_name": "wolverine-logan"
+    }
+]
