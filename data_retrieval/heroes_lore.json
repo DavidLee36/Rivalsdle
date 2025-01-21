@@ -1,0 +1,605 @@
+[
+    {
+        "ADAM WARLOCK": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "No dual identity"
+            ],
+            "Place of Origin": [
+                "The Beehive, Shard Island, Atlantic Ocean"
+            ],
+            "Group Affiliation": [
+                "Guardians of the Galaxy"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "BLACK PANTHER": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Wakanda"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "Fantastic Four",
+                "Illuminati",
+                "Dora Milaje",
+                "Agents of Wakanda"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "BLACK WIDOW": {
+            "gender": "Female",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Stalingrad, Former U.S.S.R"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "S.H.I.E.L.D.",
+                "Secret Avengers"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "CAPTAIN AMERICA": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Manhattan, New York City, New York"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "Illuminati",
+                "Secret Avengers"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "CLOAK & DAGGER": {
+            "gender": "manual",
+            "role": "manual",
+            "Identity": "manual",
+            "Place of Origin": "manual",
+            "Group Affiliation": "manual",
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "DOCTOR STRANGE": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "General public regards Strange as an ordinary occult scholar if not a charlatan"
+            ],
+            "Place of Origin": [
+                "Philadelphia, Pennsylvania"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "The Defenders",
+                "Illuminati",
+                "Midnight Sons"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "GROOT": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "No dual identity"
+            ],
+            "Place of Origin": [
+                "Planet X"
+            ],
+            "Group Affiliation": [
+                "Guardians of the Galaxy",
+                "Howling Commandos"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "HAWKEYE": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Waverly, Iowa"
+            ],
+            "Group Affiliation": [
+                "Avengers Academy",
+                "Avengers West Coast",
+                "The Defenders"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "HELA": {
+            "gender": "Female",
+            "role": "manual",
+            "Identity": [
+                "No dual identity"
+            ],
+            "Place of Origin": [
+                "Unrevealed, allegedly Jotunheim"
+            ],
+            "Group Affiliation": "manual",
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "HULK": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Dayton, Ohio"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "The Defenders",
+                "Illuminati",
+                "Pantheon",
+                "Horizon Labs"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "INVISIBLE WOMAN": {
+            "gender": "Female",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Glenville, Long Island, New York"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "Fantastic Four"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "IRON FIST": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": "manual",
+            "Group Affiliation": [
+                "The Defenders",
+                "Midnight Sons"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "IRON MAN": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Long Island, New York"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "Avengers West Coast",
+                "Illuminati",
+                "S.H.I.E.L.D."
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "LOKI": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "No dual identity"
+            ],
+            "Place of Origin": [
+                "Jotunheim, Asgard"
+            ],
+            "Group Affiliation": [
+                "Cabal",
+                "Young Avengers",
+                "A-Force"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "JEFF THE LAND SHARK": {
+            "gender": "manual",
+            "role": "manual",
+            "Identity": "manual",
+            "Place of Origin": "manual",
+            "Group Affiliation": "manual",
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "LUNA SNOW": {
+            "gender": "manual",
+            "role": "manual",
+            "Identity": "manual",
+            "Place of Origin": "manual",
+            "Group Affiliation": "manual",
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "MAGIK": {
+            "gender": "manual",
+            "role": "manual",
+            "Identity": [
+                "Secret"
+            ],
+            "Place of Origin": [
+                "Ust-Ordynski Collective, Lake Baikal, Siberia"
+            ],
+            "Group Affiliation": [
+                "Hellions (Hellfire Club)",
+                "New Mutants",
+                "X-Men"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "MAGNETO": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Secret"
+            ],
+            "Place of Origin": "manual",
+            "Group Affiliation": [
+                "Brotherhood of Mutants",
+                "Quiet Council of Krakoa"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "MANTIS": {
+            "gender": "Female",
+            "role": "manual",
+            "Identity": [
+                "Secret"
+            ],
+            "Place of Origin": [
+                "Unknown village in Vietnam"
+            ],
+            "Group Affiliation": [
+                "Guardians of the Galaxy"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "MISTER FANTASTIC": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Central City, California"
+            ],
+            "Group Affiliation": [
+                "Fantastic Four",
+                "Illuminati"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "MOON KNIGHT": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Known to S.H.I.E.L.D. authorities"
+            ],
+            "Place of Origin": [
+                "Chicago, Illinois"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "Avengers West Coast",
+                "Midnight Sons",
+                "Secret Avengers",
+                "Shadow Cabinet"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "NAMOR": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known; no dual identity"
+            ],
+            "Place of Origin": [
+                "Antarctic Atlantis"
+            ],
+            "Group Affiliation": [
+                "Cabal",
+                "Illuminati",
+                "Atlanteans",
+                "The Cabal"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "PENI PARKER": {
+            "gender": "manual",
+            "role": "manual",
+            "Identity": "manual",
+            "Place of Origin": "manual",
+            "Group Affiliation": "manual",
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "PSYLOCKE": {
+            "gender": "manual",
+            "role": "manual",
+            "Identity": "manual",
+            "Place of Origin": "manual",
+            "Group Affiliation": "manual",
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "ROCKET RACOON": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known on Halfworld, unknown on Earth"
+            ],
+            "Place of Origin": "manual",
+            "Group Affiliation": [
+                "Guardians of the Galaxy"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "SCARLET WITCH": {
+            "gender": "Female",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Wundagore Mountain, Transia"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "Avengers West Coast",
+                "Brotherhood of Mutants"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "SPIDER-MAN": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Secret"
+            ],
+            "Place of Origin": [
+                "Forest Hills, New York"
+            ],
+            "Group Affiliation": [
+                "Fantastic Four",
+                "Frightful Four",
+                "Daily Bugle",
+                "Horizon Labs",
+                "Oscorp"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "SQUIRREL GIRL": {
+            "gender": "Female",
+            "role": "manual",
+            "Identity": [
+                "Secret"
+            ],
+            "Place of Origin": [
+                "Los Angeles, California"
+            ],
+            "Group Affiliation": "manual",
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "STAR-LORD": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Secret"
+            ],
+            "Place of Origin": [
+                "Colorado"
+            ],
+            "Group Affiliation": [
+                "Guardians of the Galaxy",
+                "Ravagers"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "STORM": {
+            "gender": "Female",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Harlem, New York City, New York"
+            ],
+            "Group Affiliation": [
+                "Fantastic Four",
+                "Morlocks",
+                "X-Men",
+                "Quiet Council of Krakoa"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "THE PUNISHER": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Publicly known"
+            ],
+            "Place of Origin": [
+                "Queens, New York"
+            ],
+            "Group Affiliation": "manual",
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "THOR": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "(as Donald Blake) Secret"
+            ],
+            "Place of Origin": [
+                "A cave in Norway"
+            ],
+            "Group Affiliation": [
+                "Avengers",
+                "Heralds of Galactus",
+                "Council of Godheads"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "VENOM": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Known to authorities"
+            ],
+            "Place of Origin": [
+                "New York City, New York"
+            ],
+            "Group Affiliation": [
+                "Sinister Six",
+                "Symbiotes"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "WINTER SOLDIER": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Known to Certain Government Agencies"
+            ],
+            "Place of Origin": [
+                "Shelbyville, Indiana"
+            ],
+            "Group Affiliation": [
+                "Strikeforce"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    },
+    {
+        "WOLVERINE": {
+            "gender": "Male",
+            "role": "manual",
+            "Identity": [
+                "Known to certain government agencies"
+            ],
+            "Place of Origin": [
+                "Alberta, Canada"
+            ],
+            "Group Affiliation": [
+                "Fantastic Four",
+                "X-Men"
+            ],
+            "First Comic Appearance": "manual",
+            "Game Release Date": "manual"
+        }
+    }
+]
