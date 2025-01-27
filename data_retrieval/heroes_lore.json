@@ -1,28 +1,24 @@
 [
     {
         "ADAM WARLOCK": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "No dual identity"
-            ],
+            "gender": ["Male"],
+            "role": ["Strategist"],
+            "Identity": ["No dual identity"],
             "Place of Origin": [
-                "The Beehive, Shard Island, Atlantic Ocean"
+                "Shard Island"
             ],
             "Group Affiliation": [
                 "Guardians of the Galaxy"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1967,
+            "Game Release Date": ["2024-7"]
         }
     },
     {
         "BLACK PANTHER": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
+            "gender": ["Male"],
+            "role": ["Duelist"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
                 "Wakanda"
             ],
@@ -33,68 +29,64 @@
                 "Dora Milaje",
                 "Agents of Wakanda"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1966,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "BLACK WIDOW": {
-            "gender": "Female",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
+            "gender": ["Female"],
+            "role": ["Duelist"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
                 "Stalingrad, Former U.S.S.R"
             ],
             "Group Affiliation": [
                 "Avengers",
                 "S.H.I.E.L.D.",
-                "Secret Avengers"
+                "Secret Avengers",
+                "KGB"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1964,
+            "Game Release Date": ["December 2024"]
         }
     },
     {
         "CAPTAIN AMERICA": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
+            "gender": ["Male"],
+            "role": ["Vanguard"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
                 "Manhattan, New York City, New York"
             ],
             "Group Affiliation": [
                 "Avengers",
                 "Illuminati",
-                "Secret Avengers"
+                "Secret Avengers",
+                "U.S. Army"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1940,
+            "Game Release Date": ["December 2024"]
         }
     },
     {
         "CLOAK & DAGGER": {
-            "gender": "manual",
-            "role": "manual",
-            "Identity": "manual",
-            "Place of Origin": "manual",
-            "Group Affiliation": "manual",
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "gender": ["Male", "Female"],
+            "role": ["Strategist"],
+            "Identity": ["Secret"],
+            "Place of Origin": ["Ohio", "Massachusetts"],
+            "Group Affiliation": ["X-Men", "Secret Avengers", "Runaways"],
+            "First Comic Appearance": 1982,
+            "Game Release Date": ["December 2024"]
         }
     },
     {
         "DOCTOR STRANGE": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "General public regards Strange as an ordinary occult scholar if not a charlatan"
-            ],
+            "gender": ["Male"],
+            "role": ["Vanguard"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
-                "Philadelphia, Pennsylvania"
+                "Pennsylvania"
             ],
             "Group Affiliation": [
                 "Avengers",
@@ -102,71 +94,62 @@
                 "Illuminati",
                 "Midnight Sons"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1963,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "GROOT": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "No dual identity"
-            ],
+            "gender": ["Male"],
+            "role": ["Vanguard"],
+            "Identity": ["No dual identity"],
             "Place of Origin": [
                 "Planet X"
             ],
             "Group Affiliation": [
-                "Guardians of the Galaxy",
-                "Howling Commandos"
+                "Guardians of the Galaxy"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1960,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "HAWKEYE": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
+            "gender": ["Male"],
+            "role": ["Duelist"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
-                "Waverly, Iowa"
+                "Iowa"
             ],
             "Group Affiliation": [
-                "Avengers Academy",
-                "Avengers West Coast",
+                "Avengers",
+                "West Coast Avengers",
                 "The Defenders"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1964,
+            "Game Release Date": ["December 2024"]
         }
     },
     {
         "HELA": {
-            "gender": "Female",
-            "role": "manual",
-            "Identity": [
-                "No dual identity"
-            ],
+            "gender": ["Female"],
+            "role": ["Duelist"],
+            "Identity": ["No dual identity"],
             "Place of Origin": [
-                "Unrevealed, allegedly Jotunheim"
+                "Jotunheim"
             ],
-            "Group Affiliation": "manual",
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "Group Affiliation": ["Hell-Lords", "Death Gods", "Black Order"],
+            "First Comic Appearance": 1964,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "HULK": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
+            "gender": ["Male"],
+            "role": ["Vanguard"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
-                "Dayton, Ohio"
+                "Ohio"
             ],
             "Group Affiliation": [
                 "Avengers",
@@ -175,312 +158,292 @@
                 "Pantheon",
                 "Horizon Labs"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1962,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "INVISIBLE WOMAN": {
-            "gender": "Female",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
+            "gender": ["Female"],
+            "role": ["Strategist"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
-                "Glenville, Long Island, New York"
+                "New York"
             ],
             "Group Affiliation": [
                 "Avengers",
                 "Fantastic Four"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1961,
+            "Game Release Date": ["January 2025"]
         }
     },
     {
         "IRON FIST": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
-            "Place of Origin": "manual",
+            "gender": ["Male"],
+            "role": ["Duelist"],
+            "Identity": ["Publicly known"],
+            "Place of Origin": ["manual"],
             "Group Affiliation": [
                 "The Defenders",
-                "Midnight Sons"
+                "Midnight Sons",
+                "New Avengers"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1974,
+            "Game Release Date": ["December 2024"]
         }
     },
     {
         "IRON MAN": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
+            "gender": ["male"],
+            "role": ["Duelist"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
-                "Long Island, New York"
+                "New York"
             ],
             "Group Affiliation": [
                 "Avengers",
-                "Avengers West Coast",
                 "Illuminati",
                 "S.H.I.E.L.D."
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1962,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "LOKI": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "No dual identity"
-            ],
+            "gender": ["Male"],
+            "role": ["Strategist"],
+            "Identity": ["No dual identity"],
             "Place of Origin": [
-                "Jotunheim, Asgard"
+                ["Jotunheim", "Asgard"]
             ],
             "Group Affiliation": [
-                "Cabal",
+                "The Cabal",
                 "Young Avengers",
                 "A-Force"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1949,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "JEFF THE LAND SHARK": {
-            "gender": "manual",
-            "role": "manual",
-            "Identity": "manual",
-            "Place of Origin": "manual",
-            "Group Affiliation": "manual",
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "gender": ["Male"],
+            "role": ["Strategist"],
+            "Identity": ["No dual identity"],
+            "Place of Origin": ["unknown"],
+            "Group Affiliation": ["West Coast Avengers"],
+            "First Comic Appearance": 2019,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "LUNA SNOW": {
-            "gender": "manual",
-            "role": "manual",
-            "Identity": "manual",
-            "Place of Origin": "manual",
-            "Group Affiliation": "manual",
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "gender": ["Female"],
+            "role": ["Strategist"],
+            "Identity": ["No dual identity"],
+            "Place of Origin": ["manual"],
+            "Group Affiliation": ["Agents of Atlas"],
+            "First Comic Appearance": 2018,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "MAGIK": {
-            "gender": "manual",
-            "role": "manual",
-            "Identity": [
-                "Secret"
-            ],
+            "gender": ["Female"],
+            "role": ["Duelist"],
+            "Identity": ["Secret"],
             "Place of Origin": [
-                "Ust-Ordynski Collective, Lake Baikal, Siberia"
+                "Siberia"
             ],
             "Group Affiliation": [
-                "Hellions (Hellfire Club)",
+                "Hellions",
                 "New Mutants",
-                "X-Men"
+                "X-Men",
+                "Hellfire Club"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1975,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "MAGNETO": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Secret"
-            ],
-            "Place of Origin": "manual",
+            "gender": ["Male"],
+            "role": ["Vanguard"],
+            "Identity": ["Secret"],
+            "Place of Origin": ["Germany"],
             "Group Affiliation": [
                 "Brotherhood of Mutants",
-                "Quiet Council of Krakoa"
+                "Hellfire Club",
+                "X-Men"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1963,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "MANTIS": {
-            "gender": "Female",
-            "role": "manual",
-            "Identity": [
-                "Secret"
-            ],
+            "gender": ["Female"],
+            "role": ["Strategist"],
+            "Identity": ["No dual identity"],
             "Place of Origin": [
-                "Unknown village in Vietnam"
+                "Unknown"
             ],
             "Group Affiliation": [
                 "Guardians of the Galaxy"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1973,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "MISTER FANTASTIC": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Publicly known"
-            ],
+            "gender": ["Male"],
+            "role": ["Duelist"],
+            "Identity": ["Publicly known"],
             "Place of Origin": [
-                "Central City, California"
+                "California"
             ],
             "Group Affiliation": [
                 "Fantastic Four",
                 "Illuminati"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1961,
+            "Game Release Date": ["January 2025"]
         }
     },
     {
         "MOON KNIGHT": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Known to S.H.I.E.L.D. authorities"
-            ],
+            "gender": ["Male"],
+            "role": ["Duelist"],
+            "Identity": ["Secret"],
             "Place of Origin": [
-                "Chicago, Illinois"
+                "Illinois"
             ],
             "Group Affiliation": [
                 "Avengers",
-                "Avengers West Coast",
+                "West Coast Avengers",
                 "Midnight Sons",
                 "Secret Avengers",
-                "Shadow Cabinet"
+                "U.S. Marines"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1975,
+            "Game Release Date": ["December 2024"]
         }
     },
     {
         "NAMOR": {
-            "gender": "Male",
-            "role": "manual",
-            "Identity": [
-                "Publicly known; no dual identity"
-            ],
+            "gender": ["Male"],
+            "role": ["Duelist"],
+            "Identity": ["No dual identity"],
             "Place of Origin": [
-                "Antarctic Atlantis"
+                "Atlantis"
             ],
             "Group Affiliation": [
-                "Cabal",
                 "Illuminati",
                 "Atlanteans",
                 "The Cabal"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1939,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "PENI PARKER": {
-            "gender": "manual",
-            "role": "manual",
-            "Identity": "manual",
-            "Place of Origin": "manual",
-            "Group Affiliation": "manual",
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "gender": ["Female"],
+            "role": ["Vanguard"],
+            "Identity": ["Secret"],
+            "Place of Origin": ["Earth-14512"],
+            "Group Affiliation": ["Spider-Society"],
+            "First Comic Appearance": 2014,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "PSYLOCKE": {
-            "gender": "manual",
-            "role": "manual",
-            "Identity": "manual",
-            "Place of Origin": "manual",
-            "Group Affiliation": "manual",
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "gender": ["Female"],
+            "role": ["Duelist"],
+            "Identity": ["Secret"],
+            "Place of Origin": ["Asia"],
+            "Group Affiliation": ["X-Men"],
+            "First Comic Appearance": 1976,
+            "Game Release Date": ["December 2024"]
         }
     },
     {
         "ROCKET RACOON": {
-            "gender": "Male",
-            "role": "manual",
+            "gender": ["Male"],
+            "role": ["Strategist"],
             "Identity": [
-                "Publicly known on Halfworld, unknown on Earth"
+                "Publicly known"
             ],
-            "Place of Origin": "manual",
+            "Place of Origin": ["Halfworld"],
             "Group Affiliation": [
                 "Guardians of the Galaxy"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1976,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "SCARLET WITCH": {
-            "gender": "Female",
-            "role": "manual",
+            "gender": ["Female"],
+            "role": ["Duelist"],
             "Identity": [
                 "Publicly known"
             ],
             "Place of Origin": [
-                "Wundagore Mountain, Transia"
+                "Sokovia"
             ],
             "Group Affiliation": [
                 "Avengers",
-                "Avengers West Coast",
+                "West Coast Avengers",
                 "Brotherhood of Mutants"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1964,
+            "Game Release Date": ["May 2024"]
         }
     },
     {
         "SPIDER-MAN": {
             "gender": "Male",
-            "role": "manual",
+            "role": "Duelist",
             "Identity": [
                 "Secret"
             ],
             "Place of Origin": [
-                "Forest Hills, New York"
+                "New York"
             ],
             "Group Affiliation": [
+                "Avengers",
                 "Fantastic Four",
-                "Frightful Four",
-                "Daily Bugle",
-                "Horizon Labs",
-                "Oscorp"
+                "Spider-Society",
+                "New Avengers"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1962,
+            "Game Release Date": "May 2024"
         }
     },
     {
         "SQUIRREL GIRL": {
             "gender": "Female",
-            "role": "manual",
+            "role": "Duelist",
             "Identity": [
                 "Secret"
             ],
             "Place of Origin": [
                 "Los Angeles, California"
             ],
-            "Group Affiliation": "manual",
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "Group Affiliation": ["U.S. Avengers"],
+            "First Comic Appearance": 1991,
+            "Game Release Date": "December 2024"
         }
     },
     {
         "STAR-LORD": {
             "gender": "Male",
-            "role": "manual",
+            "role": "Duelist",
             "Identity": [
                 "Secret"
             ],
@@ -491,115 +454,116 @@
                 "Guardians of the Galaxy",
                 "Ravagers"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1976,
+            "Game Release Date": "May 2024"
         }
     },
     {
         "STORM": {
             "gender": "Female",
-            "role": "manual",
+            "role": "Duelist",
             "Identity": [
                 "Publicly known"
             ],
             "Place of Origin": [
-                "Harlem, New York City, New York"
+                "New York"
             ],
             "Group Affiliation": [
                 "Fantastic Four",
-                "Morlocks",
-                "X-Men",
-                "Quiet Council of Krakoa"
+                "Avengers",
+                "X-Men"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1975,
+            "Game Release Date": "May 2024"
         }
     },
     {
         "THE PUNISHER": {
             "gender": "Male",
-            "role": "manual",
+            "role": "Duelist",
             "Identity": [
                 "Publicly known"
             ],
             "Place of Origin": [
-                "Queens, New York"
+                "New York"
             ],
-            "Group Affiliation": "manual",
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "Group Affiliation": ["U.S. Marines"],
+            "First Comic Appearance": 1974,
+            "Game Release Date": "May 2024"
         }
     },
     {
         "THOR": {
             "gender": "Male",
-            "role": "manual",
+            "role": "Vanguard",
             "Identity": [
-                "(as Donald Blake) Secret"
+                "Publicly known"
             ],
             "Place of Origin": [
-                "A cave in Norway"
+                "Asgard"
             ],
             "Group Affiliation": [
-                "Avengers",
-                "Heralds of Galactus",
-                "Council of Godheads"
+                "Avengers"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1962,
+            "Game Release Date": "May 2024"
         }
     },
     {
         "VENOM": {
             "gender": "Male",
-            "role": "manual",
+            "role": "Vanguard",
             "Identity": [
-                "Known to authorities"
+                "Secret"
             ],
             "Place of Origin": [
-                "New York City, New York"
+                "New York"
             ],
             "Group Affiliation": [
                 "Sinister Six",
                 "Symbiotes"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1984,
+            "Game Release Date": "2024-7"
         }
     },
     {
         "WINTER SOLDIER": {
             "gender": "Male",
-            "role": "manual",
+            "role": "Duelist",
             "Identity": [
                 "Known to Certain Government Agencies"
             ],
             "Place of Origin": [
-                "Shelbyville, Indiana"
+                "Indiana"
             ],
             "Group Affiliation": [
-                "Strikeforce"
+                "U.S. Army",
+                "Hydra",
+                "Avengers"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1941,
+            "Game Release Date": "December 2024"
         }
     },
     {
         "WOLVERINE": {
             "gender": "Male",
-            "role": "manual",
+            "role": "Duelist",
             "Identity": [
-                "Known to certain government agencies"
+                "Secret"
             ],
             "Place of Origin": [
-                "Alberta, Canada"
+                "Canada"
             ],
             "Group Affiliation": [
                 "Fantastic Four",
-                "X-Men"
+                "X-Men",
+                "Canadian Army",
+                "New Avengers"
             ],
-            "First Comic Appearance": "manual",
-            "Game Release Date": "manual"
+            "First Comic Appearance": 1974,
+            "Game Release Date": "December 2024"
         }
     }
 ]

@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Refrigerator Deluxe';
+    src: url('./fonts/Refrigerator Deluxe Light.otf') format('opentype');
+    font-weight: 300; /* Light */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Refrigerator Deluxe';
+    src: url('../assets/fonts/Deluxe.otf') format('opentype');
+    font-weight: 400; /* Regular */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Refrigerator Deluxe';
+    src: url('../assets/fonts/Refrigerator Deluxe Bold.otf') format('opentype');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Refrigerator Deluxe';
+    src: url('../assets/fonts/Refrigerator Deluxe Extrabold.otf') format('opentype');
+    font-weight: 800; /* Extra Bold */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Refrigerator Deluxe';
+    src: url('../assets/fonts/Refrigerator Deluxe Heavy.otf') format('opentype');
+    font-weight: 900; /* Heavy */
+    font-style: normal;
+}
+
+:root {
+    --main-font: 'Refrigerator Deluxe', sans-serif;
+    --primary-color: #A3A3A3; /* Dark Silver/Gray */
+    --secondary-color: #720000; /* Dark Red */
+    --background-color: #1C1C1C; /* Very Dark Gray */
+    --accent-color: #B8860B; /* Metallic Gold */
+    --muted-accent: #4A708B; /* Muted Blue */
+    --text-color: #D3D3D3; /* Light Gray */
+    --overlay-color: rgba(0, 0, 0, 0.6); /* Dark Overlay */
+}
